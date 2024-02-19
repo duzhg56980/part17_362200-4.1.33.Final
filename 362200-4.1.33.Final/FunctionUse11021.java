@@ -1,0 +1,7 @@
+import io.netty.util.internal.shaded.org.jctools.queues.ConcurrentCircularArrayQueue;
+public class FunctionUse11021 {
+public void funcUse() {
+ConcurrentCircularArrayQueue concurrentcirculararrayqueue = new ConcurrentCircularArrayQueue();
+concurrentcirculararrayqueue.iterator();
+}
+}
